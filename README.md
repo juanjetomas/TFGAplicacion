@@ -1,1 +1,3 @@
-# TFGAplicacion
+# Desarrollo de un sistema de recuperación de vídeo basado en contenido
+
+Módulo de aplicación de escritorio desarrollado para el trabajo de fin de grado de Juan Jesús Tomás Rojas en la Universidad de Granada durante el curso 2016/2017.
